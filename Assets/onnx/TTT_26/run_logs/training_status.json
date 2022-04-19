@@ -1,0 +1,51 @@
+{
+    "O_Behavior": {
+        "checkpoints": [
+            {
+                "steps": 22255,
+                "file_path": "results\\TTT_26\\O_Behavior\\O_Behavior-22255.onnx",
+                "reward": 0.5995145631067961,
+                "creation_time": 1646732634.2315218,
+                "auxillary_file_paths": [
+                    "results\\TTT_26\\O_Behavior\\O_Behavior-22255.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 22255,
+            "file_path": "results\\TTT_26\\O_Behavior.onnx",
+            "reward": 0.5995145631067961,
+            "creation_time": 1646732634.2315218,
+            "auxillary_file_paths": [
+                "results\\TTT_26\\O_Behavior\\O_Behavior-22255.pt"
+            ]
+        }
+    },
+    "X_Behavior": {
+        "checkpoints": [
+            {
+                "steps": 26775,
+                "file_path": "results\\TTT_26\\X_Behavior\\X_Behavior-26775.onnx",
+                "reward": -0.2962962962962963,
+                "creation_time": 1646732634.299339,
+                "auxillary_file_paths": [
+                    "results\\TTT_26\\X_Behavior\\X_Behavior-26775.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 26775,
+            "file_path": "results\\TTT_26\\X_Behavior.onnx",
+            "reward": -0.2962962962962963,
+            "creation_time": 1646732634.299339,
+            "auxillary_file_paths": [
+                "results\\TTT_26\\X_Behavior\\X_Behavior-26775.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.2+cu111"
+    }
+}

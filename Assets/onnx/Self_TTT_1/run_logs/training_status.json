@@ -1,0 +1,71 @@
+{
+    "O_Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\Self_TTT_1\\O_Behavior\\O_Behavior-499999.onnx",
+                "reward": 0.46972591490719456,
+                "creation_time": 1646891203.72105,
+                "auxillary_file_paths": [
+                    "results\\Self_TTT_1\\O_Behavior\\O_Behavior-499999.pt"
+                ]
+            },
+            {
+                "steps": 520036,
+                "file_path": "results\\Self_TTT_1\\O_Behavior\\O_Behavior-520036.onnx",
+                "reward": 0.4532469676045129,
+                "creation_time": 1646891542.6635258,
+                "auxillary_file_paths": [
+                    "results\\Self_TTT_1\\O_Behavior\\O_Behavior-520036.pt"
+                ]
+            }
+        ],
+        "elo": 2820.1536109411577,
+        "final_checkpoint": {
+            "steps": 520036,
+            "file_path": "results\\Self_TTT_1\\O_Behavior.onnx",
+            "reward": 0.4532469676045129,
+            "creation_time": 1646891542.6635258,
+            "auxillary_file_paths": [
+                "results\\Self_TTT_1\\O_Behavior\\O_Behavior-520036.pt"
+            ]
+        }
+    },
+    "X_Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\Self_TTT_1\\X_Behavior\\X_Behavior-499999.onnx",
+                "reward": 0.45416444129209843,
+                "creation_time": 1646891542.582748,
+                "auxillary_file_paths": [
+                    "results\\Self_TTT_1\\X_Behavior\\X_Behavior-499999.pt"
+                ]
+            },
+            {
+                "steps": 500002,
+                "file_path": "results\\Self_TTT_1\\X_Behavior\\X_Behavior-500002.onnx",
+                "reward": 0.454169651621487,
+                "creation_time": 1646891542.7443094,
+                "auxillary_file_paths": [
+                    "results\\Self_TTT_1\\X_Behavior\\X_Behavior-500002.pt"
+                ]
+            }
+        ],
+        "elo": 2599.470602192457,
+        "final_checkpoint": {
+            "steps": 500002,
+            "file_path": "results\\Self_TTT_1\\X_Behavior.onnx",
+            "reward": 0.454169651621487,
+            "creation_time": 1646891542.7443094,
+            "auxillary_file_paths": [
+                "results\\Self_TTT_1\\X_Behavior\\X_Behavior-500002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.2+cu111"
+    }
+}
